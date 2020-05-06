@@ -1,0 +1,58 @@
+/*Selector{
+	Property: value;
+}*/
+
+
+
+
+img{
+	float: right;
+}
+
+p{
+	border-style: inset;
+	border-style: outset;
+	float: right;
+	padding: 30px
+	relative top
+	font-size: 25px	
+
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+body{
+	  background: url(https://www.gcmaine.com/wp-content/uploads/2015/10/abstract-rings-background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h3{
+	color: green;
+	border-style: inset;
+	border-style: outset;
+	border-color: tan;
+	border-color: tan;
+	margin-right: 900px
+	margin-left: 
+}
+img{
+	float: right;
+	transition: 1.25s
+
+}
+
+img:hover{
+	transform: scale(1.25);
+}
+.Register{
+	clear: left;
+	font-size: 30px
+}
+.Login{
+	font-size: 20px
+}
